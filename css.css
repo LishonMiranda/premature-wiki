@@ -1,0 +1,81 @@
+body {
+    font: normal 20px Trebuchet MS, Cambria, Trebuchet MS;
+    background-image: url("8.png");
+    color: black;
+    padding: 30px;
+    margin: 0px;
+    border: 1em ridge #ff1bff;
+}
+
+.img {
+    float: right;
+    border-radius: 20px;
+    border: 20px, double, #808080;
+    margin: 20px;
+}
+
+button {
+    font: normal 20px Trebuchet MS, Cambria;
+    color: #0000ff;
+    background-color: #ffd700;
+    padding: 20px;
+    border-radius: 20px;
+    width: 20em;
+}
+
+button:hover {
+    background-color: #baaff9;
+}
+
+button:active {
+    background-color: #0695c1;
+}
+
+.footer {
+    float: right;
+    color: black;
+    font: bold 15px courier new, consolas;
+}
+
+h1 {
+    color: #ffd700;
+    text-align: center;
+    font-size: 3em;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: #ffd700;
+    font-size: 2em;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+    color: #5718c5;
+    font-weight: bolder;
+}
+
+a:hover {
+    font-size: larger;
+    color: #ef2ddf;
+}
+
+a:active {
+    color: #ffff00
+}
+
+#fotb {
+    margin-top: -1em;
+}
+
+#line {
+    height: 5px;
+    background-color: gold;
+}
+
+.line2 {
+    height: 2.5px;
+    background-color: #ffa07a;
+}
